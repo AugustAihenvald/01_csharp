@@ -1,13 +1,13 @@
-﻿int a = 7;
-int b = 6;
+﻿//int a = 7;
+//int b = 6;
 
-if (a>b)
+//if (a>b)
 {
-    Console.WriteLine(a); 
+    //Console.WriteLine(a); 
 }
-else
-{
-    Console.WriteLine(b);
-}
+//else
+//{
+    //Console.WriteLine(b);
+//}
 
 
