@@ -15,4 +15,4 @@ Console.WriteLine(arr[4]);
 //Console.WriteLine(arr[5]);
 
 int[] arr2 = new int[5] { 1, 2, 3, 4, 5 };
-int [] arr3 = {5,4,3,2,1};
+int[] arr3 = { 5, 4, 3, 2, 1 };
